@@ -1,0 +1,292 @@
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\csc.exe
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\vbc.exe
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\VBCSCompiler.exe
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\PRCS1.dll.config
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\PRCS1.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\PRCS1.pdb
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Antlr3.Runtime.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\EntityFramework.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\EntityFramework.SqlServer.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Newtonsoft.Json.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Owin.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Helpers.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Mvc.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Optimization.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Razor.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.Deployment.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.Razor.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\WebGrease.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Helpers.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Mvc.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Optimization.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.Razor.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.Deployment.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\System.Web.WebPages.Razor.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Antlr3.Runtime.pdb
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Newtonsoft.Json.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\EntityFramework.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\EntityFramework.SqlServer.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\obj\Debug\PRCS1.csprojResolveAssemblyReference.cache
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\obj\Debug\PRCS1.dll
+c:\users\masif\documents\visual studio 2015\Projects\PRCS1\PRCS1\obj\Debug\PRCS1.pdb
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\csc.exe
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\vbc.exe
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\VBCSCompiler.exe
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\PRCS1.dll.config
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\PRCS1.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\PRCS1.pdb
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Antlr3.Runtime.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\EntityFramework.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\EntityFramework.SqlServer.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Newtonsoft.Json.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Owin.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Helpers.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Mvc.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Optimization.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Razor.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.Razor.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\WebGrease.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Helpers.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Mvc.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Optimization.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.Razor.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\System.Web.WebPages.Razor.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Antlr3.Runtime.pdb
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Newtonsoft.Json.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\EntityFramework.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\EntityFramework.SqlServer.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.csprojResolveAssemblyReference.cache
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.dll
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.pdb
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.InitialCreate.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.csproj.GenerateResource.Cache
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial1.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial2.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial3.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial4.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial5.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial6.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial7.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial8.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial9.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial10.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial11.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial12.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial13.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial14.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial15.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.RolesAdded.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.kkkk.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial16.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial17.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial18.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initail.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial19.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.patient.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.dropPatient.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.patient1.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial20.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial21.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.init.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.iniit.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.iiii.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.iii.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.initial22.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.final_mig.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.fin_mig.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.Lib_add.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.Blood_bank.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.thalasimai.resources
+C:\Users\masif\Documents\GitHub\PRCS\PRCS1\obj\Debug\PRCS1.Migrations.thala.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\csc.exe
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\vbc.exe
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\PRCS1.dll.config
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\PRCS1.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\PRCS1.pdb
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Antlr3.Runtime.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\EntityFramework.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Owin.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Optimization.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Razor.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\WebGrease.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Optimization.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.Razor.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\EntityFramework.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.InitialCreate.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial1.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial2.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial3.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial4.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial5.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial6.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial7.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial8.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial9.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial10.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial11.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial12.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial13.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial14.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial15.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.RolesAdded.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.kkkk.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial16.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial17.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial18.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initail.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial19.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.patient.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.dropPatient.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.patient1.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial20.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial21.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.init.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.iniit.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.iiii.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.iii.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial22.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.final_mig.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.fin_mig.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.Lib_add.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.Blood_bank.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.thalasimai.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.thala.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.csproj.GenerateResource.Cache
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.dll
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.pdb
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.listUpfdate.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial23.resources
+C:\Users\Muhammad Asif\Documents\Visual Studio 2015\Projects\PRCS-master\PRCS1\obj\Debug\PRCS1.Migrations.initial24.resources

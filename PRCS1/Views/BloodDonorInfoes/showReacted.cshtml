@@ -1,0 +1,86 @@
+﻿@model IEnumerable<PRCS.Models.BloodDonorInfo>
+@{
+    ViewBag.Title = "Show Selected";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Blood Issued Patients</h2>
+<table class="table table-hover table-responsive table-bordered table-condensed">
+    <tr>
+
+
+        <th>
+            @Html.DisplayNameFor(model => model.DonorNo)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.PatientName)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.PresBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cause)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.crossMatch)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.issueDate)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.AdverseReaction)
+        </th>
+        <th>Details</th>
+       <th></th>
+       
+        
+        
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DonorNo)
+        </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.PresBy)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cause)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.crossMatch)
+                </td>
+
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.issueDate)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdverseReaction)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Details)
+            </td>
+           
+            
+           
+            <td>
+                @Html.ActionLink("Donor Info", "Details", new { id = item.ID })
+
+            </td>
+            
+</tr>
+    }
+    </table>
+

@@ -1,0 +1,147 @@
+﻿@model IEnumerable<PRCS1.Models.BloodCampusInfo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Blood Camps Info</h2>
+
+
+  @Html.ActionLink("Add New Camps", "Create", "BloodCampusInfoes", null, new { @class = "btn btn-primary btn-large" })<br/><br/>
+   
+@using (Html.BeginForm())
+{
+    <p>
+        <div class="form-horizontal">
+
+
+            <div class="col-md-6">
+
+                Blood Camps: @Html.TextBox("SearchString",null,new { @style= "border:solid" })</div> 
+                
+            <div class="col-md-6">
+                Institute:
+    @Html.TextBox("Institute", null, new { @style = "border:solid" }) <br />
+</div>
+            <div class="col-md-6">
+                <input type="submit" class="btn btn-success" value="Filter" />
+                </div>
+            </div><br><br>
+</p>
+}
+
+
+
+
+<table class="table table-hover ;table-responsive table-bordered table-condensed">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BloodCampus)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OrganizedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InstituteName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InstituteAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InstituteDistrict)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeansContact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SocietyContact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoOfBagsDay1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoOfBagsDay2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoOfBagsDay3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NoOfBagsDay4)
+        </th>
+        <th>Total</th>
+        <th></th>
+    </tr>
+    @{int tBags = 0; }
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BloodCampus)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrganizedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstituteName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstituteAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstituteDistrict)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeansContact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SocietyContact)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfBagsDay1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfBagsDay2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfBagsDay3)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfBagsDay4)
+            </td>
+            <td>
+                @{int tDays = item.NoOfBagsDay1 + item.NoOfBagsDay2+ item.NoOfBagsDay3+ item.NoOfBagsDay4; }
+                @tDays
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+
+
+        tBags = tBags + item.NoOfBagsDay1+item.NoOfBagsDay2;
+
+    }
+   
+</table>
+
+
+
+@if (Model.Count() == 0)
+{
+    <h3 style="color:red">No Result Found!</h3>
+}
+else
+{
+
+    <label>Total No. of Blood bags Collected : </label>@tBags
+}

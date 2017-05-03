@@ -1,0 +1,112 @@
+﻿@model IEnumerable<PRCS1.Models.BloodBankTest>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Donor</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Sr#</th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Contact)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Result)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.isDelivered)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReferedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TestRequested)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Payment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HBsAg)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HCV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HIV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Syphilis)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Malaria)
+        </th>
+        <th></th>
+    </tr>
+    @{ int count = 0;}
+@foreach (var item in Model) {
+    <tr>
+        @{ count++;}
+        <td>@count</td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contact)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Result)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.isDelivered)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReferedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TestRequested)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Payment)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HBsAg)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HCV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HIV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Syphilis)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Malaria)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>
+@if (Model.Count() == 0)
+{
+    <h3 style="color:red">No Result Found</h3>
+}
