@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <style>
+        #hrid {
+            display: block;
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+            margin-left: auto;
+            margin-right: auto;
+            border-style: inset;
+            border-width: 1px;
+        }
+    </style>
+</head>
+<body>
+    <div class="row" style="text-align:center">
+        <div class="col-xs-2">
+            <img src="~/images/prcs.png" />
+        </div>
+        <div class="col-xs-8">
+            <h1>Regional Blood Donation Center & Diagnostic Services</h1>
+            <h1><b>PAKISTAN RED CRESENT</b></h1>
+            <h3>Punjab Provincial Branch,Lahore</h3>
+            <div style="background-color:lightgray">
+                <hr id="hrid">
+                <b>@ViewBag.Title</b>
+                <hr id="hrid">
+            </div>
+
+            <div>
+                @RenderBody()
+            </div>
+        </div>
+        <div class="col-xs-2">
+            <img src="~/images/prcs.png" />
+        </div>
+    </div>
+
+
+
+    <div class="row" style="text-align:center">
+        <h4>Electronically Verified Report, No Signature Required</h4>
+
+    </div>
+    <hr id="hrid" />
+    <div class="row">
+        <div class="col-md-2 "></div>
+        <div class="col-md-4 ">
+            <h3>PROF. DR. JAVED SUBZWARY</h3>
+            <b>MBBS(pb), DCP, Path(pb)</b>
+            <b>Consultant Pathalogist</b>
+        </div>
+        <div class="col-md-4">
+            <h3>Med Technologist</h3>
+            <p>Quality in everything we do<br />Not Valid for any Law Court.</p>
+
+        </div>
+        <div class="col-md-2 "></div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 "></div>
+        <div class="col-md-8">
+            <div style="background-color:lightgray;text-align:center">
+                <hr id="hrid">
+                2-Shahra-e-Fatima Jinnah Lahore(Pakistan) Tel: 042-36300236 Fax: 042-36312253
+                <hr id="hrid">
+               
+            </div>
+            <p style="text-align:center">
+                Email: info@prcspunjab.com
+            </p>
+
+        </div>
+        <div class="col-md-2 "></div>
+    </div>
+
+</body>
+</html>

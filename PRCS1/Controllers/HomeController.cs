@@ -26,5 +26,11 @@ namespace PRCS1.Controllers
 
             return View();
         }
+        public ActionResult Report()
+        {
+            ViewBag.Message = "Your Report page.";
+
+            return View();
+        }
     }
 }

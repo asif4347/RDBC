@@ -1,14 +1,14 @@
 ﻿@model PRCS1.Models.BloodBankTest
 
 @{
-    ViewBag.Title = "Details";
+    ViewBag.Title = "Donor Report";
+    Layout = "~/Views/Shared/_LayoutReport.cshtml";
 }
 
-<h2>@Model.Name's Test Details</h2>
+
 
 <div>
-    <h4>BloodBankTest</h4>
-    <hr />
+   
     <dl class="dl-horizontal">
         <dt>
             @Html.DisplayNameFor(model => model.Name)
@@ -49,10 +49,54 @@
         <dd>
             @Html.DisplayFor(model => model.isDelivered)
         </dd>
-
+        <dt>
+            @Html.DisplayNameFor(model => model.ReferedBy)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ReferedBy)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TestRequested)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TestRequested)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Payment)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Payment)
+        </dd>
+        <h3>TTI Results</h3>
+        <dt>
+            @Html.DisplayNameFor(model => model.HBsAg)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HBsAg)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HCV)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HCV)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HIV)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HIV)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Syphilis)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Syphilis)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Malaria)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Malaria)
+        </dd>
     </dl>
 </div>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
-    @Html.ActionLink("Back to List", "Index")
-</p>
